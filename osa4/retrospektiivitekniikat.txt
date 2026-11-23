@@ -1,0 +1,15 @@
+
+Start, Stop, Continue, More of, Less of Wheel
+Menetelmässä kirjataan paperille (ympyrään eri sektoreihin) ”Start, Stop, Continue, More of, Less of”, Käydään ryhmässä läpi (vuorotellen) kysymyksiä, mitä pitäisi alottaa, minkä tekeminen lopettaa, mitä jatkaa ja mitä tehdä vähemmän. Kommentteja voi antaa mihin tahansa kategoriaan, ja ne tiivistetään sopivan kategorian alle. Menetelmän etuna on se, että käydään selkeästi läpi eri alueet. Menetelmää voi myös skaalata suuremmille ryhmille, tai sitä voi käyttää esimerkiksi projektin tietyn osa-alueen tarkasteluun.
+
+Glad, Sad, Mad
+Aluksi kirjataan ylös viimeisimmän sprintin aikana tehtyjä havaintoja, ne voivat olla positiivisia tai negatiivisia.  Huomiot voivat liittyä myös tiimin ulkoisiin tekijöihin. Esille nousseet huomiot jaetaan paperille (whiteboard)  Glad, Sad, Mad kategorioihin. Samaan asiaan liittyvät asiat ryhmitellään yhden henkilön toimesta. Seuraavaksi äänestetään mitkä ryhmitellyt asiat halutaan viedä pidemmälle keskustelussa. Äänestetään sovittua määrää kortteja. Seuraavaksi käydään asiat läpi suurimmasta äänimäärästä pienimpään.
+
+Jälkimmäinen suo tilaa ehkä syvemmille keskusteluille, kun taas ensimmäisenä mainittu antaa ehkä laajemman kokonaiskuvan, mutta ei niin syvällistä keskustelua.
+
+
+
+
+
+
+
