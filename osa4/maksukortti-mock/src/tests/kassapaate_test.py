@@ -31,7 +31,7 @@ class TestKassapaate(unittest.TestCase):
 
         self.kassa.lataa(maksukortti_mock,4)
 
-        maksukortti_mock.saldo = 9
+        maksukortti_mock.lataa.assert_called_with(4)
 
 
     def test_lataa_negatiivinen_summa_ei_paivita(self):
@@ -40,5 +40,5 @@ class TestKassapaate(unittest.TestCase):
 
         self.kassa.lataa(maksukortti_mock,-4)
 
-        maksukortti_mock.saldo = 5
+        maksukortti_mock.lataa.assert_not_called()
     
